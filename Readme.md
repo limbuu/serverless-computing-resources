@@ -13,21 +13,13 @@
   #### Domains: [Real Time Serverless](http://people.cs.uchicago.edu/~aachien/lssg/research/zccloud/rtserverless/), [Data-Intensive Computing](https://labs.globus.org/), [Serverless SuperComputing](https://labs.globus.org/projects/funcx.html), [Python-based Parallel Scripting](https://labs.globus.org/projects/parsl.html)
   #### Pubications: [LSSG lab research papers](http://people.cs.uchicago.edu/~aachien/lssg/research/zccloud/rtserverless/), [globus labs research papers](https://labs.globus.org/publications.html)
 
-* ### Standford University:
-  #### Professors:
-  #### Labs:
-  #### Domains:
-  #### Pubications:
 
 * ### Georgia Tech:
-  #### Professors:
-  #### Labs:
-  #### Domains:
-  #### Pubications:
+  #### Professors: [Alexey Tumanov](https://www.cc.gatech.edu/~atumanov/)
+  #### Labs: [SAIL Lab](https://www.cc.gatech.edu/~atumanov/index.html#researchgroup) 
+  #### Domains: [Distributed Computing for AI workloads](https://www.cc.gatech.edu/~atumanov/index.html#Publications), [Serverless Computing for AI workloads](https://www.cc.gatech.edu/~atumanov/index.html#Publications)
+  #### Pubications: [distributed computing and serverless research papers](https://www.cc.gatech.edu/~atumanov/index.html#Publications)
   
-* ### University of Virgina:
-  #### Professors:
-  #### Labs:
-  #### Domains:
-  #### Pubications:
+
+  
 
