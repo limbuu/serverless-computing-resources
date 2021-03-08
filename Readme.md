@@ -41,7 +41,13 @@
 * Domains: [Distributed Computing for AI workloads](https://www.cc.gatech.edu/~atumanov/index.html#Publications), [Serverless Computing for AI workloads](https://www.cc.gatech.edu/~atumanov/index.html#Publications)
 * Pubications: [distributed computing and serverless research papers](https://www.cc.gatech.edu/~atumanov/index.html#Publications)
 
+## International Serverless Conference
+* [Internation Workshop Serverless Computing](https://www.serverlesscomputing.org/)
+* [Serverless Architecture Conference](https://serverless-architecture.io/thehague/)
 
+## Serverless Publications/Journals
+* [Serverless on arxiv.org](https://arxiv.org/search/?query=serverless&searchtype=all&source=header)
+* [Serverless on ieeexplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=serverless)
   
 
   
