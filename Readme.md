@@ -14,8 +14,9 @@
 * [Serverless Architecture — Complete Reference Guide [2019]](https://medium.com/swlh/serverless-architecture-complete-reference-guide-2019-55363c08d1be)
 * [Serverless Computing 101— What is it? Is it actually server-less](https://medium.com/swlh/serverless-computing-101-what-is-it-is-it-actually-server-less-747ef0523926)
 * [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+* [Will Serverless Computing Kill Docker Containers?](https://medium.com/hackernoon/will-serverless-computing-kill-docker-containers-222671bffdc4)
 
-### Serverless for AI and MachineLearning
+### Serverless for AI and Machine Learning
 * [How Serverless Architecture Can Impact the Future of AI and ML Industries](https://blog.techmagic.co/how-serverless-impacts-the-ai-and-ml-industries/)
 * [How I Built and Deployed a Fun Serverless Machine Learning App](https://towardsdatascience.com/building-and-deploying-cartoonify-b4786b382d7e)
 * [Serverless machine learning architecture on leading cloud platforms](https://towardsdatascience.com/serverless-machine-learning-architecture-on-leading-cloud-platforms-c630dee8df15)
