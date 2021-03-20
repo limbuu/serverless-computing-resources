@@ -1,4 +1,17 @@
 
+## Opensource Serverless Frameworks
+* [Apache OpenWhisk](https://openwhisk.apache.org/): It is opensource serverless platform that allows to execute code in response 
+to events at any scale. This framework written in `Scala` lanaguage, process the inputs from triggers like HTTP requests and later fires snippet of code on either JavaScript or Swift.
+* [Fission](https://fission.io/): It is a serverless computing framework that enables developers to build short lived functions in Kubernetes, and map them to event triggers like HTTP requests.
+* [IronFunctios](https://open.iron.io/): It is serverless computing framework that offers a cohesive microservices platform by integrating its existing services and embracing Docker. It is written in Go language.
+* [Fn Project](https://fnproject.io/): It is opensource container native serverless platform that can be run anywhere cloud or 
+premise.
+* [Kubeless](https://kubeless.io/): It is kubernetes native serverless platform that lets you deploy small bits of code without having to worry about underlying K8s infrastructure. 
+* [Knative](https://knative.dev/):
+* [OpenFaas](https://docs.openfaas.com/): It is framework for building serverless functions with Docker and Kubernetes, with support for metrics. 
+* [nuclio](https://nuclio.io/): A high-performance serverless framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
+* [Hydrosphere Mist](https://github.com/Hydrospheredata/mist):It is serverless proxy for Apache Spark clusters.
+* [Hydrosphere ML Lambda](https://github.com/Hydrospheredata/hydro-serving): It is Open source model management cluster for deploying, serving and monitoring machine learning models and ad-hoc algorithms with a FaaS architecture.
 
 ## Online Courses
 * [Introduction to Serverless On Kubernetes](https://www.edx.org/course/introduction-to-serverless-on-kubernetes)
@@ -15,6 +28,8 @@
 * [Serverless Computing 101— What is it? Is it actually server-less](https://medium.com/swlh/serverless-computing-101-what-is-it-is-it-actually-server-less-747ef0523926)
 * [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 * [Will Serverless Computing Kill Docker Containers?](https://medium.com/hackernoon/will-serverless-computing-kill-docker-containers-222671bffdc4)
+* [10 Things Serverless Architects Should Know](https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/)
+* [Serverless Architecture WhitePaper](https://aws.amazon.com/lambda/serverless-architectures-learn-more/)
 
 ### Serverless for AI and Machine Learning
 * [How Serverless Architecture Can Impact the Future of AI and ML Industries](https://blog.techmagic.co/how-serverless-impacts-the-ai-and-ml-industries/)
@@ -48,6 +63,7 @@
 ## Serverless Publications/Journals
 * [Serverless on arxiv.org](https://arxiv.org/search/?query=serverless&searchtype=all&source=header)
 * [Serverless on ieeexplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=serverless)
+* [Serverless on dl.acm.org](https://dl.acm.org/action/doSearch?AllField=serverless)
   
 
   
