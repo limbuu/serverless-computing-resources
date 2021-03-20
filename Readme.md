@@ -1,3 +1,10 @@
+# Serverless Computing
+
+## Cloud Vendors Serverless 
+### [Google Cloud Serverless](https://cloud.google.com/serverless)
+* [CloudFunctios](https://cloud.google.com/functions): Cloud Functions is serverless execution environment to deploy and run single purpose functions that are invoked in response to events triggers or HTTP requests. Main advantages of CloudFunctions are: no servers to provision, manage, or upgrade, automatically scale based on the load, integrated logging & monitoring, builtin security and key networking features for hybrid and multi-cloud senarios. But they come with some [limitations.](https://cloud.google.com/functions/quotas).   
+* [Cloud Run](https://cloud.google.com/run): Cloud Run is fully managed google cloud service that can be used to develop and deploy highly scalable containeraized applications written in any language in fully managed serverless platform. This serverless platform is build upon an open standard Knative Serving, that enables rapid deployement of serverless containers in Kubernetes with 'scale to zero' functionality. 
+* [App Engine](https://cloud.google.com/appengine): App Engine is gcp service that can be used to build and deploy highly availbale applications on fully managed serverless platform. It has support for wide range of languages in standard environment and any languages in case of flexible environment setup. 
 
 ## Opensource Serverless Frameworks
 * [Apache OpenWhisk](https://openwhisk.apache.org/): It is opensource serverless platform that allows to execute code in response 
@@ -7,7 +14,7 @@ to events at any scale. This framework written in `Scala` lanaguage, process the
 * [Fn Project](https://fnproject.io/): It is opensource container native serverless platform that can be run anywhere cloud or 
 premise.
 * [Kubeless](https://kubeless.io/): It is kubernetes native serverless platform that lets you deploy small bits of code without having to worry about underlying K8s infrastructure. 
-* [Knative](https://knative.dev/):
+* [Knative Serving](https://knative.dev/): It is Kubernetes based serverless microservices with "scale-to-zero" functionality. With Knative serving, you can build and deploy serverless applications and functions in Kubernetes and used `Istio` to scale, rapidly deploy serverless containers, automatic scalig down to zero, routing and networking with Istio, point in time snapshots of deployed code and configuratiions. 
 * [OpenFaas](https://docs.openfaas.com/): It is framework for building serverless functions with Docker and Kubernetes, with support for metrics. 
 * [nuclio](https://nuclio.io/): A high-performance serverless framework focused on data, I/O, and compute intensive workloads. It is well integrated with popular data science tools, such as Jupyter and Kubeflow; supports a variety of data and streaming sources; and supports execution over CPUs and GPUs.
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist):It is serverless proxy for Apache Spark clusters.
@@ -64,7 +71,7 @@ premise.
 * [Serverless on arxiv.org](https://arxiv.org/search/?query=serverless&searchtype=all&source=header)
 * [Serverless on ieeexplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=serverless)
 * [Serverless on dl.acm.org](https://dl.acm.org/action/doSearch?AllField=serverless)
-  
+ 
 
   
 
